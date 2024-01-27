@@ -1,0 +1,20 @@
+@import url("./assets/Fonts/Kalameh/CSS/Kalameh.css");
+* {
+  font-family: "KalamehWeb-Regular";
+  box-sizing: border-box;
+}
+.f-bold {
+  font-family: "KalamehWeb-Bold" !important;
+}
+.f-semibold {
+  font-family: "KalamehWeb-SemiBold";
+}
+.font16 {
+  font-size: 15px;
+}
+.ellipsis {
+  text-overflow: ellipssis !important;
+  white-space: nowrap !important;
+  overflow: hidden !important;
+  width: 20px !important;
+}
